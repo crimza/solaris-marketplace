@@ -1,0 +1,4 @@
+.hover-menu a.dark-link.selected {
+    color: #dc520b;
+    text-decoration: underline;
+}

@@ -1,0 +1,8 @@
+#!/bin/bash
+export APP_PORT=81
+export PMA_PORT=82
+export WWWUSER=1000
+export WWWGROUP=1000
+export APPUSER=catalog
+export DB_ROOT_PASSWORD=dbpassword
+
